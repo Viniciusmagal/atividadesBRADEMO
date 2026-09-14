@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 name: exercicio_2
 description: "Row, Column, Icon e Container (barra de botoes)"
+=======
+name: flutter_is_fun
+description: "Exercício - reprodução da interface Flutter is Fun"
+>>>>>>> 60f726c5906aa48dc36d2f9356773839cca2639d
 publish_to: 'none'
 version: 1.0.0+1
 
