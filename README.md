@@ -1,31 +1,28 @@
-# Flutter is Fun!
+# Atividades BRADEMO
 
-Projeto criado para o exercício: reproduzir a interface com AppBar verde
-("Flutter is Fun!") e um Container laranja centralizado contendo o texto
-"Hi Mom" e um ícone.
+Repositório destinado às atividades e exercícios desenvolvidos na disciplina de Desenvolvimento Mobile utilizando Flutter e Dart.
 
-## Widgets usados (conforme pedido no exercício)
-- **Container**: envolve o texto e o ícone, define a cor de fundo laranja e o padding.
-- **Colors**: `Colors.green` na AppBar e `Colors.deepOrange` no Container.
-- **Icon**: `Icons.wb_sunny` (sol) ao lado do texto.
-- **Text**: "Hi Mom" dentro do Container.
+## 📱 Exercícios
 
-## Como rodar
+### Exercício 1
+Primeiro exercício desenvolvido durante as atividades da disciplina.
 
-1. Tenha o Flutter SDK instalado (https://docs.flutter.dev/get-started/install).
-2. Extraia esta pasta.
-3. No terminal, dentro da pasta do projeto:
-   ```
-   flutter pub get
-   flutter run
-   ```
-4. Escolha um emulador/dispositivo conectado quando solicitado.
+### Exercício 2
+Segundo exercício desenvolvido durante as atividades da disciplina.
 
-## Estrutura
-```
-flutter_is_fun/
-├── lib/
-│   └── main.dart      <- código principal da interface
-├── pubspec.yaml        <- configuração do projeto
-└── README.md
-```
+## 🛠️ Tecnologias utilizadas
+
+- Flutter
+- Dart
+- Visual Studio Code
+- Git e GitHub
+
+## 📚 Disciplina
+
+**Desenvolvimento Mobile — BRADEMO**
+
+Instituto Federal de São Paulo (IFSP)
+
+---
+
+Desenvolvido por **Vinícius Magalhães**.

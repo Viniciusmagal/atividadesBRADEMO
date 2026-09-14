@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
+    "name": "exercicio_2",
+    "short_name": "exercicio_2",
+=======
     "name": "flutter_is_fun",
     "short_name": "flutter_is_fun",
+>>>>>>> 60f726c5906aa48dc36d2f9356773839cca2639d
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
